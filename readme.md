@@ -22,4 +22,4 @@ A simple server wriiten in Golang. The server uses the net/http package
 
 - [x]  Make html files
 - [x]  Create file server
-- [x]  Create endpoints :blush:
+- [x]  Create endpoints 
